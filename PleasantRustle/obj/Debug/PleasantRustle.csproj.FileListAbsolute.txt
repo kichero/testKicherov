@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\PleasantRustle\PleasantRustle\bin\Debug\PleasantRustle.exe.config
+C:\Users\user\Desktop\PleasantRustle\PleasantRustle\bin\Debug\PleasantRustle.exe
+C:\Users\user\Desktop\PleasantRustle\PleasantRustle\bin\Debug\PleasantRustle.pdb
+C:\Users\user\Desktop\PleasantRustle\PleasantRustle\obj\Debug\PleasantRustle.Form1.resources
+C:\Users\user\Desktop\PleasantRustle\PleasantRustle\obj\Debug\PleasantRustle.Properties.Resources.resources
+C:\Users\user\Desktop\PleasantRustle\PleasantRustle\obj\Debug\PleasantRustle.csproj.GenerateResource.cache
+C:\Users\user\Desktop\PleasantRustle\PleasantRustle\obj\Debug\PleasantRustle.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PleasantRustle\PleasantRustle\obj\Debug\PleasantRustle.exe
+C:\Users\user\Desktop\PleasantRustle\PleasantRustle\obj\Debug\PleasantRustle.pdb
+C:\Users\user\Desktop\PleasantRustle\PleasantRustle\obj\Debug\PleasantRustle.ListItem.resources
+C:\Users\user\Desktop\PleasantRustle\PleasantRustle\obj\Debug\PleasantRustle.csproj.AssemblyReference.cache
